@@ -35,10 +35,6 @@ Inspired by Wealthsimple’s minimalist design.
 
 ## ⚡ Getting Started
 
-### Prerequisites
-- Node.js (>= 18.x)  
-- PostgreSQL  
-
 ### Setup
 1. Clone this repository  
    ```bash
