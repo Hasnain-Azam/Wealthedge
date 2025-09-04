@@ -1,16 +1,16 @@
 # WealthEdge 💰  
 *A modern full-stack expense and investing tracker to help you own your money with clarity.*  
-Inspired by Wealthsimple’s minimalist design, built with performance and security in mind.
+Inspired by Wealthsimple’s minimalist design.
 
 ---
 
 ## ✨ Features
-- 🔐 **User Authentication** — secure login & signup with JWT tokens  
-- 💸 **Expense Tracking** — log daily expenses with category, merchant, and notes  
-- 📊 **Summaries & Charts** — view total spent, average per expense, and recent transactions with interactive graphs  
-- 📈 **Investing Contributions** — track investing progress and total saved  
-- 🛡 **Security** — JWT auth, bcrypt password hashing, rate limiting, CORS, Helmet  
-- ⚡ **Performance** — optimized PostgreSQL queries and lightweight Node.js backend  
+-  **User Authentication** — secure login & signup with JWT tokens  
+-  **Expense Tracking** — log daily expenses with category, merchant, and notes  
+-  **Summaries & Charts** — view total spent, average per expense, and recent transactions with interactive graphs  
+-  **Investing Contributions** — track investing progress and total saved  
+-  **Security** — JWT auth, bcrypt password hashing, rate limiting, CORS, Helmet  
+-  **Performance** — optimized PostgreSQL queries and lightweight Node.js backend  
 
 ---
 
