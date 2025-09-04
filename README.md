@@ -10,7 +10,6 @@ Inspired by Wealthsimple’s minimalist design.
 -  **Summaries & Charts** — view total spent, average per expense, and recent transactions with interactive graphs  
 -  **Investing Contributions** — track investing progress and total saved  
 -  **Security** — JWT auth, bcrypt password hashing, rate limiting, CORS, Helmet  
--  **Performance** — optimized PostgreSQL queries and lightweight Node.js backend  
 
 ---
 
